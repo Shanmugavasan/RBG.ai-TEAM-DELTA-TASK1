@@ -1,1 +1,2 @@
 # RBG.ai-TEAM-DELTA-TASK1
+# run on GOOGLE COLAB
